@@ -1,0 +1,80 @@
+#wholeContainer{
+	background color: blue; 
+	margin: auto;
+	height: 973px;
+	width: 750px;
+}
+a:hover {
+	opacity: .56;
+	color: grey;
+}
+
+
+#topbar{
+	background-image: url("topbar.gif");
+	background-repeat: repeat-x;
+	width: 780px;
+	margin-top: -4px;
+}
+#container2{
+	background-color: blue;
+	height: 754px;
+	width: 780px;
+	margin-top: -5px;
+}
+#leftBar{
+	background-color: red;
+	float: left;
+	height: 750px;
+	width: 140px;
+	margin-top: 4px;
+	margin-left: 4px;
+}
+#internetPlay{
+	background-color: #339CFF;
+	height: 200px;
+	width: 140px;
+	padding-top: 3px; 
+}
+#internetPlayText{
+	background-color: #3364FF;
+	text-align: center;
+	width: 140px;
+
+}
+#middleBar{
+	background-color: black;
+	float: left;
+	height: 750px;
+	width: 482px;
+	margin-top: 4px;
+	margin-left: 4px;
+	margin-right: 4px;
+}
+#rightBar{
+	background-color: grey;
+	float: left;
+	height: 750px;
+	width: 140px;
+	margin-top: 4px;
+	margin-right: 4px;
+}
+#bottomBar{
+	background-image: url("btmbar.gif");
+	background-repeat: repeat-x;
+	width: 780px;
+}
+#container3{
+	background-color: blue;
+	height: 100px;
+	width: 780px;
+}
+
+#bottomText{
+	text-align: center;
+	text-decoration-color: white;
+}
+#bottomText a{
+	color: white;
+	text-align: center;
+}
